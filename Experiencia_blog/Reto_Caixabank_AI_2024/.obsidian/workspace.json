@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "bf2fb3254266b0b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "779a7550b562e717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bcd5348cd0c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt"
+            }
+          },
+          {
+            "id": "3775631757627678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan detallado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan detallado"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0e3c91359506f67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb3b6dd025be385",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dff0536bbfc085bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e022c466d8187435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffb11597f473e13d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "253bef335f8fc9c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "49d086506a6def37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d8f0999b148b159",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a653c5cb74f2c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ca55e55c615934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan detallado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Plan detallado"
+            }
+          },
+          {
+            "id": "b05b960c395fc651",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plan detallado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Plan detallado"
+            }
+          },
+          {
+            "id": "9c02470eabcd32dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eae93ce9ca5f719e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plan detallado.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Plan detallado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3775631757627678",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Plan detallado.md",
+    "Entorno virtual.md",
+    "Prompt.md"
+  ]
+}
